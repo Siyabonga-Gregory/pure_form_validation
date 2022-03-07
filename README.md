@@ -1,4 +1,13 @@
 # Getting Started with Create React App
+If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
+
+Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
+
+❤️Manny thanks!❤️ 
+
+![Screenshot_57](https://user-images.githubusercontent.com/19228713/157033020-1165e44a-963b-4223-9e6b-054e26d0fecb.png)
+
+![Screenshot_58](https://user-images.githubusercontent.com/19228713/157033053-0c95693f-7f3f-4d6a-87bf-8909edc75e11.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
