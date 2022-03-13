@@ -11,7 +11,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "yup": "^0.29.3"
+    "yup": "^0.32.11"
   },
   "scripts": {
     "start": "react-scripts start",
